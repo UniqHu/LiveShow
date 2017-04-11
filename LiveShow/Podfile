@@ -1,0 +1,7 @@
+
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'YYKit'
+pod 'MJExtension'
+pod 'LFLiveKit'

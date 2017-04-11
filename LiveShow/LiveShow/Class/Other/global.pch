@@ -9,7 +9,11 @@
 #ifndef global_pch
 #define global_pch
 
-#import "HJMarcros.h"
 
+#import "HJMarcros.h"
+#import <YYKit.h>
+#import <MJExtension.h>
+#import "UIImageView+SDWebImage.h"
+#import "APIConfig.h"
 
 #endif /* global_pch */

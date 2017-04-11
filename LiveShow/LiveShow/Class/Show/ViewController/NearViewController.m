@@ -1,23 +1,22 @@
 //
-//  HJBaseNavController.m
+//  NearViewController.m
 //  LiveShow
 //
-//  Created by uniqhj on 2017/4/7.
+//  Created by uniqhj on 2017/4/11.
 //  Copyright © 2017年 Hujian 😄. All rights reserved.
 //
 
-#import "HJBaseNavController.h"
+#import "NearViewController.h"
 
-@interface HJBaseNavController ()
+@interface NearViewController ()
 
 @end
 
-@implementation HJBaseNavController
+@implementation NearViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.navigationBar.barTintColor = RGB(0, 216, 201);
-    self.navigationBar.tintColor = [UIColor whiteColor];
+    // Do any additional setup after loading the view from its nib.
 }
 
 - (void)didReceiveMemoryWarning {
